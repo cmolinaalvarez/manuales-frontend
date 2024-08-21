@@ -29,4 +29,4 @@
     4. Herramientas
 
         1. Miro.   https://miro.com/app/dashboard/
-        2. Figma.
+        2. Figma.  https://www.figma.com/
