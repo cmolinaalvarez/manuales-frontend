@@ -1,6 +1,6 @@
 # Frontend
 
-1. Herramientas necesarias
+1. ## Herramientas necesarias ##
     1. Wireframe (Borrador): ES como el esqueleto, una representación visula básica de la estructura y disposición de un diseño. Es simple, sin detalles gráficos y se centra en la disposición de los elementos.
 
         1. Estructura visual: Representa la disposición y distribución de elementos en un diseño.
