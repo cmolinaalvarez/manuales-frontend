@@ -25,3 +25,8 @@
         3. Pruebas de usuario: Facilita pruebas y retroalimentación más realistas antes del desarrollo completo.
         4. Funcionalidad completa: Permite probar la funcionalidad del diseño, incluyendo transiciones y comportamientos interactivos.
         5. Puente entre diseño y desarrollo: Sirve como un puente crucial entre la face de diseño el desarrollo completo del producto.
+
+    4. Herramientas
+
+        1. Miro.   https://miro.com/app/dashboard/
+        2. Figma.
