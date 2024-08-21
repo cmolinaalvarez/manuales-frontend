@@ -11,11 +11,17 @@
 
     2. Diseño: En esta etapa se añaden colores, tipografías y elementos gráficos. Aquí es donde la visión cobra vida y se define el estilo visual. Es como la piel del proyecto.
 
-        1. Estilo visual:
-        2. Detalles gráficos:
-        3. Identidad visual:
-        4. Interfaz de usuario:
-        5. Paso intermedio:
+        1. Estilo visual: Agrega colores, tipografías e imágenes, y otros elementos gráficos al esqueleto proporcionado por el WireFrame.
+        2. Detalles gráficos: Se centra en la estética y la apariencia visual del producto.
+        3. Identidad visual: Define la identidad de marca a través de elementos visuales específicos.
+        4. Interfaz de usuario: Crea una experiencia visual atractiva y coherente para los usuarios.
+        5. Paso intermedio: Sigue al Wireframe y predede al prototipo, dando forma visual al concepto del proyecto. 
 
 
-    3. Prototipo:
+    3. Prototipo: El protipo es una representación interactiva del diseño final. Puede hacer clic en los botones, navegar entre páginas y obtener una experiencia más realista del producto final.
+
+        1. Interactiva: Ofrece una representación mas avanzada y funcional del diseño, permitiendo clics y navegación.
+        2. Experiencia realista: Proporciona una vista previa práctica y cercana a la experiencia final del usuario.
+        3. Pruebas de usuario: Facilita pruebas y retroalimentación más realistas antes del desarrollo completo.
+        4. Funcionalidad completa: Permite probar la funcionalidad del diseño, incluyendo transiciones y comportamientos interactivos.
+        5. Puente entre diseño y desarrollo: Sirve como un puente crucial entre la face de diseño el desarrollo completo del producto.
